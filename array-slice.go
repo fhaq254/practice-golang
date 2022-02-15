@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	var x [5]string = [5]string{"A", "B", "C", "D", "E"}
-	fmt.Println(x)
+	var d [5]string = [5]string{"A", "B", "C", "D", "E"}
+	fmt.Println(d)
 
 	// empty array
 	var s []string
